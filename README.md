@@ -7,6 +7,6 @@
 - I am a [certified AWS cloud practictioner](https://www.youracclaim.com/badges/caa89c2e-91e8-4996-877d-0382ef1f0096)
 - I'm an alumn of:
   - 💻 [Sparkbox](https://seesparkbox.com/)⚡ 
-  - 💻 [Chiedo Labs]()
+  - 💻 [Chiedo Labs](https://www.generateimpact.com/)
   - 🎓 [James Madison University](https://jmu.edu/)
  
